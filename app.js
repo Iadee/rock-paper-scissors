@@ -109,3 +109,4 @@ function endGame() {
 playGame();
 
 // add a way to calculate score and display it
+//
